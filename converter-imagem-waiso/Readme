@@ -1,0 +1,21 @@
+--------------------------------------------------
+Tarefas
+--------------------------------------------------
+
+- Criar uma janela com a biblioteca JFrame ok
+
+- Selecionar uma imagem ok
+
+- Converter para escala de cinza ok
+
+- Converter imagem para binário e mostrar o resultado gerado
+
+--------------------------------------------------
+Pendências
+--------------------------------------------------
+
+- Converter a imagem para outras escalas
+
+- As cores serão selecionadas por um JRadioButton
+
+- Fazer essa mesma tarefa, só que utilizando o browser
